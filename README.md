@@ -7,11 +7,7 @@ We’ve attached a few documents, each of which has lots of words and sentences.
 
 Word (Total Occurrences) | Documents | Sentences containing the word
 --- | --- | ---
-Philosophy (42) | x, y, z | I don't have time for philosophy
- 
-Surely this was a touch of fine philosophy; though no doubt he had never heard there was such a thing as that.
- 
-Still, her pay-as-you-go philosophy implies it.
+Philosophy (42) | x, y, z | I don't have time for philosophy.\ Surely this was a touch of fine philosophy; though no doubt he had never heard there was such a thing as that.\ Still, her pay-as-you-go philosophy implies it.
 ---
 ---
 ---
